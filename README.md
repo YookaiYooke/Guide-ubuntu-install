@@ -1,2 +1,2 @@
-# Guide-ubuntu-install
-Guide to install necessary software on unbuntu
+# Instruction content
+## Guide to install necessary software on unbuntu
