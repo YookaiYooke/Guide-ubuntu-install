@@ -17,10 +17,14 @@
 * Find line : `promt_dir()`
 * Modify : `prompt_segment blue black '%~'` into `prompt_segment blue black ${PWD##*/}`  
 
+### powerlevel9k
+
+* https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k
+
 ## Ibus unikey
 
-* sudo apt-get install ibus-unikey 
-* ibus restart
+* `sudo apt-get install ibus-unikey`
+* `ibus restart`
 
 ## Google chrome 
 
@@ -33,7 +37,7 @@
 
 ## Git
 
-* sudo apt-get install git
+* `sudo apt-get install git`
 
 ## SmartGit 
 
