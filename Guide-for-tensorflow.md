@@ -1,2 +1,9 @@
 # Guide for tensorflow python programing
-Guide-for-tensorflow.md
+
+## Tensorflow document
+
+* https://www.tensorflow.org/api_docs/python/tf/Session
+
+## Tensorflow ML course
+
+* https://developers.google.com/machine-learning/crash-course/ml-intro
