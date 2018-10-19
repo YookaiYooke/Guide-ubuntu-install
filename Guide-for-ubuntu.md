@@ -68,3 +68,5 @@
 * `sudo apt-get update`
 * `sudo apt-get install vlc`
 
+## Change ubuntu username
+* https://askubuntu.com/questions/34074/how-do-i-change-my-username
