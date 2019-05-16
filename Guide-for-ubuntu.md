@@ -6,7 +6,8 @@
 * sudo apt update
 * sudo apt dist-upgrade
 * sudo apt install gnome gnome-shell
-Then choose gdm3
+
+* `sudo dpkg-reconfigure gdm3` to switch between lightmode and gdm3 mode. Gdm3 mode only activate Gnome.
 
 ## Numix theme
 
