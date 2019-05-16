@@ -1,5 +1,13 @@
 # Install nessesary software for unbuntu
 
+## Install gnome
+
+* sudo add -apt-repository ppa:gnome3-team/gnome3-staging
+* sudo apt update
+* sudo apt dist-upgrade
+* sudo apt install gnome gnome-shell
+Then choose gdm3
+
 ## Numix theme
 
 * sudo add-apt-repository ppa:numix/ppa
