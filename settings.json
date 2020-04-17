@@ -1,0 +1,46 @@
+{
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+        "--ignore=H102,W504,H238,D104,H306,H405,D205,D204"
+    ],
+    "editor.fontFamily": "'Unbuntu Mono Regular', 'monospace', monospace, 'Unbuntu Mono Regular'",
+    "terminal.integrated.inheritEnv": false,
+    "python.formatting.yapfArgs": [
+        "--style={ based_on_style: google}",
+        "--style={ column_limit: 120 }",
+        // "--style={ INDENT_CLOSING_BRACKETS: True }",
+        "--style={ SPLIT_BEFORE_FIRST_ARGUMENT: False }",
+        "--style={ SPLIT_ALL_TOP_LEVEL_COMMA_SEPARATED_VALUES: True }",
+        "--style={ SPLIT_ALL_COMMA_SEPARATED_VALUES: Fasle }"
+        // "--style={ BLANK_LINE_BEFORE_MODULE_DOCSTRING: True }",
+        // "--style={ BLANK_LINE_BEFORE_CLASS_DOCSTRING: True }",
+
+        // "--style={ BLANK_LINE_BEFORE_MODULE_DOCSTRING: True }",
+        // "--style={ ALIGN_CLOSING_BRACKET_WITH_VISUAL_INDENT: True }",
+        // "--style={ SPLIT_ARGUMENTS_WHEN_COMMA_TERMINATED: True }",
+        // "--style={ SPLIT_BEFORE_CLOSING_BRACKET: True }",
+
+    ],
+    "python.formatting.provider": "yapf",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=120"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/lap13630/.local/virtual-site-packages"
+    ],
+    "git.ignoreLegacyWarning": true,
+
+    "python.dataScience.textOutputLimit": 0.0,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "editor.largeFileOptimizations": false,
+    "window.zoomLevel": 0,
+    "python.pythonPath": "/home/lap13630/.conda/envs/dlenv/bin/python",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "yaml.customTags": [
+        "!Join sequence",
+        "!JoinPath sequence",
+    ]
+}
