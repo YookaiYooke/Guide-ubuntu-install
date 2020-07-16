@@ -79,3 +79,9 @@
 
 ## Change ubuntu username
 * https://askubuntu.com/questions/34074/how-do-i-change-my-username
+
+## Change default terminal
+
+* `sudo update-alternatives --config x-terminal-emulator` then choose terminal.
+
+
