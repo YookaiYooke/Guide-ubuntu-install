@@ -84,4 +84,6 @@
 
 * `sudo update-alternatives --config x-terminal-emulator` then choose terminal.
 
-
+## Keepass setting
+* sudo apt install keepassxc
+* setup keepassxc chronium integation: https://github.com/keepassxreboot/keepassxc-browser/wiki/Troubleshooting-guide
